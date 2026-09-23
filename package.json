@@ -12,6 +12,7 @@
 		"npm",
 		"backend"
 	],
+	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
 	},
