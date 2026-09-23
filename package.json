@@ -6,6 +6,12 @@
 	"main": "server.js",
 	"author": "Chau Du",
 	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"npm",
+		"backend"
+	],
 	"scripts": {
 		"start": "node server.js"
 	},
