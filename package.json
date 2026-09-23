@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"version": "1.0.0",
 	"author": "Chau Du",
 	"description": "A project that does something awesome",
 	"keywords": [
